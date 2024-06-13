@@ -8,7 +8,7 @@
 Menu
 
 ![Screenshot 2024-06-13 204537](https://github.com/Jandalslap/C3_Stewart_Austin_AVL/assets/128538609/263821b1-6461-4bb1-8ea9-8344472dca38)
-Load
+Load/Insert
 
 ![Screenshot 2024-06-13 204630](https://github.com/Jandalslap/C3_Stewart_Austin_AVL/assets/128538609/6dfe8232-bd33-42b4-bd1c-b501900206ee)
 Print
